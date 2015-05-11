@@ -1,0 +1,14 @@
+{
+  "name": "conways",
+  "version": "1.0.0",
+  "description": "The mob/randori version of conways.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.3.1"
+  }
+}
