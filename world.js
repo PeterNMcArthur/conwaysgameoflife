@@ -1,11 +1,3 @@
-
-function insertText () {
-    document.getElementById('game-of-life').innerHTML = "Some text to enter";
-}
-window.onload = insertText;
-  var a = 0
-
-
 function step(world) {
   var newWorld = [];
   for (var i = 0; i < world.length; i++) {
